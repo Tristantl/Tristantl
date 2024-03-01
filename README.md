@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Tristan
+#### I am a website developer
+![I am a website developer](https://media.licdn.com/dms/image/C4E12AQHYjeIZcbhDrQ/article-cover_image-shrink_720_1280/0/1590975204626?e=2147483647&v=beta&t=bHjBiR2LQ1IyOzalB67rMAf17U183na27zmAxujl1uo)
 
-<!--
-**Tristantl/Tristantl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer I have already coded a sales site and I do it for fun
 
-Here are some ideas to get you started:
+Skills: HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
