@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Salut, moi c’est tristantl
 
-<!--
-**Tristantl/Tristantl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par l’automatisation, l’IA, l’électronique et les projets open-source.
 
-Here are some ideas to get you started:
+🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe différents projets autour de :
+
+🤖 Intelligence artificielle
+🖥️ Automatisation
+🎮 Scripts & outils gaming
+🔌 Orange Pi / Raspberry Pi
+🌐 Bots & interfaces web
+⚡ Projets électroniques et systèmes embarqués
+
+J’aime créer des outils performants, automatiser des tâches complexes et expérimenter de nouvelles technologies.
+
+🔥 Projets & intérêts
+🤖 IA & Computer Vision
+🎮 Automatisation gaming
+🔌 Systèmes embarqués
+🌐 Applications web
+⚡ Automatisation réseau
+📱 Contrôle distant & interfaces web
+
+📫 Contact
+GitHub : https://github.com/tristantl
+
+⭐ Support
+Si tu apprécies mes projets, pense à laisser une étoile ⭐ sur les repositories.
