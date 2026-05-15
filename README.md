@@ -1,30 +1,29 @@
-👋 Salut, moi c’est tristantl
+Hey, I'm Tristan
 
-Développeur passionné par l’automatisation, l’IA, l’électronique et les projets open-source.
+Passionate about building smart systems, automation tools and creative tech projects.
 
-🚀 À propos de moi
 
-Je développe différents projets autour de :
 
-🤖 Intelligence artificielle
-🖥️ Automatisation
-🎮 Scripts & outils gaming
-🔌 Orange Pi / Raspberry Pi
-🌐 Bots & interfaces web
-⚡ Projets électroniques et systèmes embarqués
 
-J’aime créer des outils performants, automatiser des tâches complexes et expérimenter de nouvelles technologies.
+Who I Am
 
-🔥 Projets & intérêts
-🤖 IA & Computer Vision
-🎮 Automatisation gaming
-🔌 Systèmes embarqués
-🌐 Applications web
-⚡ Automatisation réseau
-📱 Contrôle distant & interfaces web
+I'm a developer who enjoys creating unique projects around software, embedded systems and automation.
 
-📫 Contact
-GitHub : https://github.com/tristantl
+I like experimenting with new ideas, learning how systems work internally and turning concepts into real working tools.
 
-⭐ Support
-Si tu apprécies mes projets, pense à laisser une étoile ⭐ sur les repositories.
+What I Work On
+Automation tools
+AI-related projects
+Embedded & Linux systems
+Web-based control panels
+Networking & infrastructure
+Custom software experiments
+Goals
+
+Currently focused on improving my skills, building better projects and exploring new technologies.
+
+GitHub
+https://github.com/tristantl
+Thanks for visiting
+
+Feel free to check out my repositories and follow my progress.
