@@ -23,7 +23,9 @@ I enjoy learning how things work internally and building projects from scratch.
 🤖 AI & Computer Vision
 🌍 Networking & Infrastructure
 ⚙️ Performance optimization
+
 🔥 What I Like Building
+
 ⚡ Fast & optimized tools
 🌐 Web dashboards
 🤖 Automation scripts
@@ -34,7 +36,9 @@ I enjoy learning how things work internally and building projects from scratch.
 🧠 Learn new technologies
 💡 Build creative projects
 📈 Keep evolving every day
+
 🌍 Profile
+
 GitHub
 
 ➡️ https://github.com/tristantl
