@@ -25,18 +25,27 @@ I enjoy learning how things work internally and building projects from scratch.
 
 
 🔥 What I Like Building
+
 ⚡ Fast & optimized tools
+
 🌐 Web dashboards
+
 🤖 Automation scripts
+
 🔌 Embedded systems
+
 🛠️ Experimental software
+
 📌 Goals
+
 🚀 Improve my development skills
+
 🧠 Learn new technologies
+
 💡 Build creative projects
+
 📈 Keep evolving every day
-🌍 Profile
-GitHub
+
 
 ➡️ https://github.com/tristantl
 
