@@ -1,29 +1,44 @@
-Hey, I'm Tristan
+👋 Hey, I'm Tristan
 
-Passionate about building smart systems, automation tools and creative tech projects.
-
-
+💻 Passionate about tech, automation and building cool projects.
 
 
-Who I Am
 
-I'm a developer who enjoys creating unique projects around software, embedded systems and automation.
 
-I like experimenting with new ideas, learning how systems work internally and turning concepts into real working tools.
+🚀 About Me
 
-What I Work On
-Automation tools
-AI-related projects
-Embedded & Linux systems
-Web-based control panels
-Networking & infrastructure
-Custom software experiments
-Goals
+I'm a developer who loves experimenting with:
 
-Currently focused on improving my skills, building better projects and exploring new technologies.
+🤖 Artificial Intelligence
+⚡ Automation Systems
+🖥️ Embedded & Linux Projects
+🌐 Web Interfaces
+🔌 Hardware & Networking
+🛠️ Custom Tools & Experiments
 
+I enjoy learning how things work internally and building projects from scratch.
+
+🧠 Currently Learning
+🐧 Advanced Linux systems
+🤖 AI & Computer Vision
+🌍 Networking & Infrastructure
+⚙️ Performance optimization
+🔥 What I Like Building
+⚡ Fast & optimized tools
+🌐 Web dashboards
+🤖 Automation scripts
+🔌 Embedded systems
+🛠️ Experimental software
+📌 Goals
+🚀 Improve my development skills
+🧠 Learn new technologies
+💡 Build creative projects
+📈 Keep evolving every day
+🌍 Profile
 GitHub
 https://github.com/tristantl
-Thanks for visiting
+⭐ Thanks for Visiting
 
-Feel free to check out my repositories and follow my progress.
+Thanks for checking out my profile ✨
+
+Feel free to explore my repositories and follow my journey 🚀
