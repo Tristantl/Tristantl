@@ -20,7 +20,6 @@ I enjoy learning how things work internally and building projects from scratch.
 
 🧠 Currently Learning
 🐧 Advanced Linux systems
-🤖 AI & Computer Vision
 🌍 Networking & Infrastructure
 ⚙️ Performance optimization
 🔥 What I Like Building
