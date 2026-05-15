@@ -36,7 +36,9 @@ I enjoy learning how things work internally and building projects from scratch.
 📈 Keep evolving every day
 🌍 Profile
 GitHub
-https://github.com/tristantl
+
+➡️ https://github.com/tristantl
+
 ⭐ Thanks for Visiting
 
 Thanks for checking out my profile ✨
