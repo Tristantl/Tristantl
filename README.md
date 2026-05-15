@@ -10,21 +10,34 @@
 I'm a developer who loves experimenting with:
 
 🤖 Artificial Intelligence
+
 ⚡ Automation Systems
+
 🖥️ Embedded & Linux Projects
+
 🌐 Web Interfaces
+
 🔌 Hardware & Networking
+
 🛠️ Custom Tools & Experiments
+
+
 
 I enjoy learning how things work internally and building projects from scratch.
 
 🧠 Currently Learning
+
 🐧 Advanced Linux systems
+
 🌍 Networking & Infrastructure
+
 ⚙️ Performance optimization
 
 
 🔥 What I Like Building
+
+
+
 
 ⚡ Fast & optimized tools
 
@@ -47,7 +60,13 @@ I enjoy learning how things work internally and building projects from scratch.
 📈 Keep evolving every day
 
 
+📱contact :
+
+
 ➡️ https://github.com/tristantl
+
+
+
 
 ⭐ Thanks for Visiting
 
